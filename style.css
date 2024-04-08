@@ -1,0 +1,11 @@
+canvas {
+    box-shadow: 5px 5px 5px firebrick;
+}
+body {
+    background-size: stretch;
+}
+h3 {
+font-size: medium;
+padding-top: 20px;
+margin: 5px;
+}
